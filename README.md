@@ -38,8 +38,8 @@
 
 
 <br clear="both">
+<img src="https://github.com/harini-goli/harini-goli/blob/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/harini-goli/harini-goli/snake.svg" alt="Snake animation" />
 ###
 <h3 align="center">🌟 Thanks for stopping by!</h3>
 
