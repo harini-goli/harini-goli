@@ -36,10 +36,11 @@
 
 ###
 
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/harini-goli/harini-goli/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/harini-goli/harini-goli/snake.svg" alt="Snake animation" />
+###
 <h3 align="center">🌟 Thanks for stopping by!</h3>
 
 <p align="center">
