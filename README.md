@@ -8,13 +8,21 @@
 </h4>
 
 ###
-<br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harini-goli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=diwakarj-ayavarapu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakarj-ayavarapu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+<p align="center">
+  <a href="https://github.com/harini-goli">
+    <img src="https://github-readme-stats.vercel.app/api?username=harini-goli&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+  </a>
+  <a href="https://github.com/harini-goli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harini-goli&theme=light" alt="Your GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harini-goli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini-goli&layout=compact&theme=light" alt="Top Languages" />
+  </a>
+</p>
 
 ###
 
